@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ChessBoardModeling")]
+[assembly: AssemblyTitle("ChessTutorialGUI")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ChessBoardModeling")]
+[assembly: AssemblyProduct("ChessTutorialGUI")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("6e773f32-9452-4062-bcc7-4dbd363204bf")]
+[assembly: Guid("4bbeba89-ac18-42e7-85d1-3448ffc4c4a5")]
 
 // Version information for an assembly consists of the following four values:
 //
